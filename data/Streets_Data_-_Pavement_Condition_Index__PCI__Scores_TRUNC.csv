@@ -1,0 +1,64 @@
+CNN,Street_Name,PCI_Score,From_Street,To_Street,PCI_Change_Date,Treatment_or_Survey,Street_Accepted_For_Maintenance,Functional_Class
+5175001,ELLIS ST,82,LEAVENWORTH ST,HYDE ST,08/30/2019,Survey,Yes,
+2864001,BEALE ST,79,MISSION ST,NATOMA ST,08/30/2019,Survey,Yes,
+108001,01ST ST,80,TEHAMA ST,CLEMENTINA ST,11/19/2002,Survey,Yes,
+110000,01ST ST,74,CLEMENTINA ST,FOLSOM ST,08/10/2009,Survey,No,
+114000,01ST ST,100,HARRISON ST \ I-80 E ON RAMP,END,10/29/2008,Survey,No,
+12195000,Stockton St,100,Ofarrell St,Geary St,12/04/2018,Treatment,Yes,Arterial
+116001,DELANCEY ST,67,FEDERAL ST,BAYSIDE VILLAGE PL,09/09/1997,Survey,Yes,
+116002,DELANCEY ST,67,BAYSIDE VILLAGE PL,BRANNAN ST,09/09/1997,Survey,Yes,
+140000,02ND ST,54,HARRISON ST,STILLMAN ST,08/10/2009,Survey,No,
+159000,03RD AVE,100,KEZAR DR \ LINCOLN WAY,LINCOLN WAY,10/29/2008,Survey,No,
+172000,03RD ST,50,HARRISON ST,PERRY ST,08/10/2009,Survey,No,
+173000,03RD ST,100,PERRY ST,STILLMAN ST,08/10/2009,Survey,No,
+174000,03RD ST,100,STILLMAN ST,BRYANT ST,08/10/2009,Survey,No,
+1932000,42nd Ave,100,Lincoln Way,Irving St,12/11/2018,Treatment,Yes,Residential
+23158000,18th Ave: Vicente St Intersection,100,VICENTE ST,Intersection,12/13/2016,Treatment,No,
+829000,18th Ave,100,Clement St,Geary Blvd,12/10/2019,Treatment,Yes,Residential
+33662000,Putnam St: Crescent Ave Intersection,100,PUTNAM ST,Intersection,12/18/2015,Treatment,No,
+7016001,HOLYOKE ST,72,MANSELL ST,END,10/20/2019,Survey,Yes,
+20226000,Newhall St: Hudson Ave Intersection,100,NEWHALL ST,Intersection,12/18/2015,Treatment,No,
+21044000,Prentiss St: Crescent Ave Intersection,100,PRENTISS ST,Intersection,12/18/2015,Treatment,No,
+23154000,17th Ave: Vicente St Intersection,100,VICENTE ST,Intersection,12/13/2016,Treatment,No,
+34015000,Willie B Kennedy Dr: Hudson Ave Intersection,100,WILLIE B KENNEDY DR,Intersection,12/18/2015,Treatment,No,
+14004000,Kalmanovitz St,85,Orsi Cir,Orsi Cir,10/12/2019,Survey,Yes,Residential
+8913000,Mccarthy Ave,82,Argonaut Ave,Burr Ave,09/01/2019,Survey,Yes,Residential
+3709000,Carolina St,78,Mariposa St,18th St,10/27/2019,Survey,Yes,Residential
+185101,03RD ST,48,MISSION ROCK ST,CHINA BASIN ST,11/16/2005,Survey,Yes,
+185102,03RD ST,48,CHINA BASIN ST,MISSION BAY BLVD,11/16/2005,Survey,Yes,
+185103,03RD ST,48,MISSION BAY BLVD,MISSION BAY BLVD,11/16/2005,Survey,Yes,
+8353101,Lincoln Way,46,15th Ave,16th Ave,10/26/2019,Survey,Yes,Arterial
+3190000,Broderick St,74,Oak St,Fell St,11/02/2019,Survey,Yes,Residential
+185201,03RD ST,48,MISSION ROCK ST,CHINA BASIN ST,11/16/2005,Survey,Yes,
+185202,03RD ST,48,CHINA BASIN ST,MISSION BAY BLVD,11/16/2005,Survey,Yes,
+185203,03RD ST,48,MISSION BAY BLVD,MISSION BAY BLVD,11/16/2005,Survey,Yes,
+185204,03RD ST,48,MISSION BAY BLVD,NELSON RISING LN,11/16/2005,Survey,Yes,
+185206,03RD ST,48,CAMPUS WAY,16TH ST,11/16/2005,Survey,Yes,
+10182000,Page St,84,Lyon St,Central Ave,09/08/2019,Survey,Yes,Residential
+8247000,Leavenworth St,76,Bush St,Pine St,08/25/2019,Survey,Yes,Collector
+227102,03RD ST,74,FITZGERALD AVE,KEITH ST,08/13/2002,Survey,Yes,
+227103,03RD ST,74,KEITH ST,GILMAN AVE \ PAUL AVE,08/13/2002,Survey,Yes,
+1251000,23rd St,95,Sfgh Access,Utah St,10/27/2019,Survey,Yes,Residential
+259000,04TH ST,43,HARRISON ST \ I-80 W ON RAMP,PERRY ST,08/10/2009,Survey,No,
+260000,04TH ST,46,PERRY ST,STILLMAN ST,08/10/2009,Survey,No,
+261000,04TH ST,46,STILLMAN ST,BRYANT ST \ I-80 E OFF RAMP,08/10/2009,Survey,No,
+267001,04TH ST,46,TOWNSEND ST,KING ST,08/13/2002,Survey,Yes,
+270002,04TH ST,42,BERRY ST,CHANNEL ST,09/08/1997,Survey,Yes,
+271000,04TH ST,74,CHANNEL ST,CHANNEL ST,08/10/2009,Survey,No,
+300001,05TH ST,41,SHIPLEY ST,JENNIFER PL,11/19/2002,Survey,Yes,
+106000,01st St,57,Natoma St,Howard St,08/30/2019,Survey,Yes,Arterial
+21688000,Avalon Ave: Lisbon St Intersection,100,LISBON ST,Intersection,10/20/2017,Treatment,No,
+8413000,Lisbon St,93,Amazon Ave,Geneva Ave,08/28/2019,Survey,Yes,Residential
+8406000,Lisbon St,95,Avalon Ave,Excelsior Ave,08/28/2019,Survey,Yes,Residential
+8758202,Market St,52,Gough St,Valencia St,09/08/2019,Survey,Yes,Arterial
+8759201,Market St,74,Valencia St,Hwy 101 Northbound \ Hwy 101 Southbound \ Octavia St,09/28/2019,Survey,Yes,Arterial
+8752101,Market St,84,08th St \ Grove St \ Hyde St,09th St \ Larkin St,08/30/2019,Survey,Yes,Arterial
+8753101,Market St,95,09th St \ Larkin St,10th St \ Fell St \ Polk St,08/30/2019,Survey,Yes,Arterial
+8754101,Market St,93,10th St \ Fell St \ Polk St,11th St,08/30/2019,Survey,Yes,Arterial
+8755101,Market St,75,South Van Ness Ave \ Van Ness Ave,12th St \ Page St,08/30/2019,Survey,Yes,Arterial
+8756101,Market St,78,12th St \ Page St,Franklin St,08/30/2019,Survey,Yes,Arterial
+8757101,Market St,82,Franklin St,Brady St,08/30/2019,Survey,Yes,Arterial
+8758101,Market St,80,Gough St \ Haight St,Valencia St,08/30/2019,Survey,Yes,Arterial
+8761201,Market St,76,Guerrero St \ Laguna St,Buchanan St \ Duboce Ave,08/30/2019,Survey,Yes,Arterial
+8759101,Market St,80,Valencia St,Hwy 101 Northbound \ Hwy 101 Southbound \ Octavia St,08/30/2019,Survey,Yes,Arterial
+8761101,Market St,63,Guerrero St \ Laguna St,Buchanan St \ Duboce Ave,08/30/2019,Survey,Yes,Arterial
